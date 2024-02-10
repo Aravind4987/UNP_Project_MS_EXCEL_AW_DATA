@@ -8,4 +8,4 @@ Applied pertinent Excel functions and formulas to optimize and structure the dat
 
 PDE LINK:- https://drive.google.com/file/d/1v-_P2LEyHStREIEqLtE91XHWQcu6ZhM4/view?usp=sharing
 
-EXCeL LINK:-https://docs.google.com/spreadsheets/d/1nS0Ylw8suJj888jr8amG3L-CP1xpN5wcL0EM-Co7GIk/edit?usp=sharing
+EXCEL LINK:-https://docs.google.com/spreadsheets/d/1nS0Ylw8suJj888jr8amG3L-CP1xpN5wcL0EM-Co7GIk/edit?usp=sharing
